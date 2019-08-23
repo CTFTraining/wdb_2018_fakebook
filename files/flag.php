@@ -1,4 +1,4 @@
 <?php
 
-$flag = "flag{fakebook_is_good!!!}";
+$flag = "flag_here";
 exit(0);
